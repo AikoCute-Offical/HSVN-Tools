@@ -8,7 +8,7 @@ B1 Dowload : https://eternallybored.org/misc/wget/1.21.3/64/wget.exe
 
 B2 COPPY bỏ vào : C:\Windows\System32
 
-B3 Used Tools Continute :D 
+B3 Used Tools Continute :D ( Nhớ mở ở quyền ADMIN )
 
 * Lưu ý : Min sẽ add môi truờng này trong bảng tiếp theo
 
